@@ -1,0 +1,18 @@
+body.lana-security_page_lana-security-settings tr.cleanup-by,
+body.lana-security_page_lana-security-settings tr.cleanup {
+    display: none;
+}
+
+body.lana-security_page_lana-security-settings tr.d-table-row {
+    display: table-row !important;
+}
+
+body.lana-security_page_lana-security-settings tr.cleanup th,
+body.lana-security_page_lana-security-settings tr.cleanup td {
+    padding-top: 0;
+}
+
+body.lana-security_page_lana-security-settings tr.cleanup-by th label,
+body.lana-security_page_lana-security-settings tr.cleanup th label {
+    padding-left: 15px;
+}
